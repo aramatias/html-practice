@@ -1,0 +1,32 @@
+#top, #bottom {
+    height: 125px;
+    background-color: orange;
+}
+
+#top {
+    height: 125px;
+}
+
+#bottom {
+    height: 100px;
+}
+#left, #right {
+    background-color: violet;
+}
+
+#center {
+    background-color: cyan;
+}
+
+p, span, li, u{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    font-weight: bold;
+    font-family: "Brush Script MT";
+}
+
+.text-dark-red{
+    color: darkred;
+}
